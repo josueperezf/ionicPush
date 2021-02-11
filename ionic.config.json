@@ -1,5 +1,7 @@
 {
   "name": "ionicPush",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
